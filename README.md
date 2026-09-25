@@ -46,3 +46,20 @@ Treatment vs Control Measurement
 Incremental GMV + ROI
         ↓
 Agent Learning & Reallocation
+
+<h2>📸 Prototype Preview</h2>
+
+<h3>Merchant Growth Command Center</h3>
+<p align="center">
+  <img src="./dashboard.png.png" width="900">
+</p>
+
+<h3>Autonomous Agent Activity & Audit Trail</h3>
+<p align="center">
+  <img src="./agent-activity.png.png" width="900">
+</p>
+
+<h3>Measured Business Outcome</h3>
+<p align="center">
+  <img src="./results.png.png" width="900">
+</p>
