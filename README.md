@@ -24,6 +24,23 @@ The agent works toward:
 
 > "You gave me ₹10,000 to increase repeat purchases. I identified the highest-value opportunity, simulated multiple interventions, selected the safest high-return action, executed the experiment within your limits, and measured the resulting incremental GMV."
 
+<h2>📸 Prototype Preview</h2>
+
+<h3>Merchant Growth Command Center</h3>
+<p align="center">
+  <img src="./dashboard.png.png" width="900">
+</p>
+
+<h3>Autonomous Agent Activity & Audit Trail</h3>
+<p align="center">
+  <img src="./agent-activity.png.png" width="900">
+</p>
+
+<h3>Measured Business Outcome</h3>
+<p align="center">
+  <img src="./results.png.png" width="900">
+</p>
+
 ## 🔄 Agent Workflow
 
 ```text
@@ -47,19 +64,5 @@ Incremental GMV + ROI
         ↓
 Agent Learning & Reallocation
 
-<h2>📸 Prototype Preview</h2>
 
-<h3>Merchant Growth Command Center</h3>
-<p align="center">
-  <img src="./dashboard.png.png" width="900">
-</p>
 
-<h3>Autonomous Agent Activity & Audit Trail</h3>
-<p align="center">
-  <img src="./agent-activity.png.png" width="900">
-</p>
-
-<h3>Measured Business Outcome</h3>
-<p align="center">
-  <img src="./results.png.png" width="900">
-</p>
