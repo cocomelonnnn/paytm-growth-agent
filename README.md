@@ -19,7 +19,8 @@ It analyzes transaction behavior, identifies high-potential customer segments, s
     <strong>🚀 Live Prototype →</strong>
   </a>
 </p>
-## 💡 Core Idea
+
+💡 Core Idea
 
 Instead of:
 
