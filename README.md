@@ -14,6 +14,11 @@ A merchant provides a **growth goal, budget, and constraints**. The agent then:
 
 It analyzes transaction behavior, identifies high-potential customer segments, simulates possible interventions, checks merchant-defined policies, executes a growth experiment, measures the outcome, and uses the result to improve future decisions.
 
+<p align="center">
+  <a href="https://paytm-growth-agent.vercel.app/">
+    <strong>🚀 Live Prototype →</strong>
+  </a>
+</p>
 ## 💡 Core Idea
 
 Instead of:
